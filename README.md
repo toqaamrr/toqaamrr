@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Toqa! 
 I'currenty a CS student 
-Aspiring Data Scientist 
+ - Aspiring Data Scientist 
 
 <!--
 **toqaamrr/toqaamrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
